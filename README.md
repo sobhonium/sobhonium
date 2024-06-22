@@ -19,5 +19,6 @@ I'm a passionate ML software developer with experience in building generative AI
 - **Databases**: PostgreSQL, MongoDB, MySQL
 
 ## Projects
-- **[TPMS Studio](https://tpmsstudio.com/)**: A brief description of what this project is about. 
+- **[TPMS Studio](https://tpmsstudio.com/)**: A brief description of what this project is about.
+- **[ML-Operational]: Matrix-based toolkit for Operational Matrices in ML algorithms.
 
