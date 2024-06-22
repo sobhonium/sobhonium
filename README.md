@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 
-Here are some ideas to get you started:
 
 ## About Me
 I'm a passionate ML software developer with experience in building generative AI for 3D shapes.
