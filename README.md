@@ -20,5 +20,5 @@ I'm a passionate ML software developer with experience in building generative AI
 
 ## Projects
 - **[TPMS Studio](https://tpmsstudio.com/)**: A brief description of what this project is about.
-- **[ML-Operational]: Matrix-based toolkit for Operational Matrices in ML algorithms.
+- **[ML-Operational](https://github.com/Sleron/SPSMAT)**: Matrix-based toolkit for Operational Matrices in ML optimizers.
 
