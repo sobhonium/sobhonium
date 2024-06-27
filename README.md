@@ -26,3 +26,4 @@ I'm a passionate ML software developer with experience in building generative AI
 - **[TPMS Studio](https://tpmsstudio.com/)**: A tool for designing TPMS structures for designing highly complex 3D shapes.
 - **[ML-Operational](https://github.com/Sleron/SPSMAT)**: Matrix-based toolkit for Operational Matrices in ML optimizers.
 - **[3D printing slicer tool](https://github.com/sobhonium/SLA-Direct-3dPrinting)**: Python lib to slice 3D models for printing. Without meshing and rasterizaion, this tool directly slices the shapes.
+- **[Graph studio](https://github.com/sobhonium/TPMS-Lattice-Studio/tree/main**: A visulaization tool developed by c++ and pyqt5 to let the lattice graphs be visualized in 3D space. The background lies in algebraic toplogy and the c++ backend code does the calculations and python binding tools are used to visualize them in 3D.
