@@ -23,6 +23,7 @@ I'm a passionate ML software developer with experience in building generative AI
 - **API**: FastAPI
 
 ## Projects
+- **[Multi-Agent Game](https://github.com/sobhonium/multi-agent-game)**: Multiple AI-Agents competing in a deduction-based game to convince other players of their own statements.
 - **[Voice Chatbot](https://github.com/sobhonium/voice_chat_assistant)**: allows you to record voice, convert it to text using OpenAI Whisper, and get AI responses from Groq LLM.
 - **[Fine-tuneing LLMs](https://github.com/sobhonium/Skin-Cancer-Specialist-LLM)**: Skin-cancer specialist by finetuning LLMs to answer questions on cancer.
 - **[TPMS Studio](https://tpmsstudio.com/)**: A tool for designing TPMS structures for designing highly complex 3D shapes.
