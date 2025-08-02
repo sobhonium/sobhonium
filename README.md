@@ -27,6 +27,7 @@ I'm a passionate ML software developer with experience in building generative AI
 - **[Voice Chatbot](https://github.com/sobhonium/voice_chat_assistant)**: allows you to record voice, convert it to text using OpenAI Whisper, and get AI responses from Groq LLM.
 - **[Fine-tuneing LLMs](https://github.com/sobhonium/Skin-Cancer-Specialist-LLM)**: Skin-cancer specialist by finetuning LLMs to answer questions on cancer.
 - **[Bitcoin-Price predictions](https://github.com/sobhonium/bitcoin-price-prediction/tree/main)**: Using Transformers and LSTM for prediction of cryptocurrency market prices.
+- **[AI text-2-image Tool](https://github.com/sobhonium/AI-text-2-Image-tool?tab=readme-ov-file)**: Using Stable Diffusion for converting text prompts to an images.
 - **[TPMS Studio](https://tpmsstudio.com/)**: A tool for designing TPMS structures for designing highly complex 3D shapes.
 - **[ML-Operational](https://github.com/Sleron/SPSMAT)**: Matrix-based toolkit for Operational Matrices in ML optimizers.
 - **[3D printing slicer tool](https://github.com/sobhonium/SLA-Direct-3dPrinting)**: Python lib to slice 3D models for printing. Without meshing and rasterizaion, this tool directly slices the shapes.
