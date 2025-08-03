@@ -11,16 +11,20 @@ I'm a passionate ML software developer with experience in building generative AI
 ![FastAPI](https://img.shields.io/badge/FastAPI-6f1ab1?style=for-the-badge&logo=FastAPI&logoColor=white)	![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
  
 ## Skills
-- **Languages**: Python,  C++, Bash, typescript, MATLAB/Octave
-- **Frameworks**: Scikit, Pytorch
-- **Dashboard Design**: Tableau, Power BI, Dash, Streamlit, Flask
-- **Programming Lib**: Eigen, Numpy, Open3d, Pyvista, Pandas, Seaborn, transformers
-- **Tools**: Kubernetes, Docker, GiT, MySQL
-- **Math Tools**: Matlab, Maple, SageMath
-- **Platforms**: Linux,  Windows,  AWS,  IBM Cloud
-- **Methodologies**: Agile, Scrum, Test-Driven Development (TDD), CI/CD}
-- **Databases**: PostgreSQL, MongoDB, MySQL
-- **API**: FastAPI
+- **Languages**: Python, C++, Bash, MATLAB/Octave  
+- **Frameworks**: PyTorch, TensorFlow, Scikit-learn, Keras, Hugging Face Transformers  
+- **LLM & Agent Frameworks**: LangChain, LlamaIndex, LangGraph, CrewAI, Haystack, Semantic Kernel, OpenAI SDK, Ollama  
+- **LLM Tooling & Serving**: FastAPI, BentoML, Ray Serve, vLLM, LM Studio, Weaviate, ChromaDB, Milvus, Pinecone  
+- **Vector Databases**: FAISS, Chroma, Pinecone, Weaviate, Milvus, Qdrant  
+- **Dashboard Design**: Tableau, Power BI, Dash, Streamlit, Gradio, Flask  
+- **Programming Lib**: Eigen, NumPy, SciPy, Open3D, PyVista, Pandas, Seaborn, Matplotlib, Plotly, Dask, SymPy, JAX, Numba  
+- **Tools**: Docker, Kubernetes, Git, GitHub Actions, Jenkins, MLflow, DVC, Airflow, Prefect, Conda, Make, Weights & Biases (W&B)  
+- **Math Tools**: MATLAB, Maple, SageMath, SymPy  
+- **Platforms**: Linux, Windows, AWS (EC2, S3, SageMaker, Bedrock), GCP (Vertex AI), IBM Cloud, Hugging Face Hub, Replicate, RunPod  
+- **Methodologies**: Agile, Scrum, Test-Driven Development (TDD), Continuous Integration/Delivery (CI/CD), MLOps, LLMOps, Data-Centric AI  
+- **Databases**: PostgreSQL, MongoDB, MySQL, SQLite  
+- **API**: FastAPI, Flask, REST, GraphQL, OpenAPI/Swagger, Postman  
+
 
 ## Projects
 - **[Multi-Agent Game](https://github.com/sobhonium/multi-agent-game)**: Multiple AI-Agents competing in a deduction-based game to convince other players of their own statements.
